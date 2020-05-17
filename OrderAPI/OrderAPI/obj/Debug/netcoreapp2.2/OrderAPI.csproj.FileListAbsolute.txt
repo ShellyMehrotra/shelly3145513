@@ -1,0 +1,14 @@
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.2\OrderAPI.deps.json
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.2\OrderAPI.runtimeconfig.json
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.2\OrderAPI.runtimeconfig.dev.json
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.2\OrderAPI.dll
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.2\OrderAPI.pdb
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.2\OrderAPI.csproj.CoreCompileInputs.cache
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.2\OrderAPI.RazorAssemblyInfo.cache
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.2\OrderAPI.RazorAssemblyInfo.cs
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.2\OrderAPI.AssemblyInfoInputs.cache
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.2\OrderAPI.AssemblyInfo.cs
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.2\OrderAPI.RazorTargetAssemblyInfo.cache
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.2\OrderAPI.dll
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.2\OrderAPI.pdb
+C:\Users\shellymehrotra\source\repos\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.2\OrderAPI.csprojAssemblyReference.cache
