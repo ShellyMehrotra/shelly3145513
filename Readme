@@ -1,1 +1,3 @@
-Will give a list of all orders of a user
+OrderAPI: Will give a list of all orders of a user.
+UserAPI: Will provide a REST endpoint giving details of user.
+OrderDetails: Will aggregate the response from user and orders service.
